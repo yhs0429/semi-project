@@ -14,13 +14,17 @@
 
 ## 2.사용 기술 및 개발 계획
 
-#### 1) 사용기술
+#### 1) 사용기술 / 언어
 
 - Spring Boot 2.7.0
 
 - STS 4.14.0
 
 - Windows 10
+
+- MySQL8.0
+
+- JAVA / JavaScript
 
   
 
