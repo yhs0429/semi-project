@@ -34,7 +34,7 @@ $(function(){
       <label class="control-label col-sm-2" for="mname">이름</label>
       <div class="col-sm-4">
         <input type="text" class="form-control" id="mname" 
-        placeholder="Enter mname" name="mname" required="required" 
+        placeholder="Enter name" name="mname" required="required" 
         value='${c_id_val}'>
       </div>
     </div>
